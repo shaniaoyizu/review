@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sunbc.mapper.EmployeeMapper">
+    <select id="getEmpById" resultType="employee">
+        SELECT * FROM tb_employee WHERE id =  #{id}
+    </select>
+
+    <insert id="addEmp" parameterType="com.sunbc.bean.Employee" useGeneratedKeys="true"
+        keyProperty="id">
+        INSERT INTO tb_employee(last_name,email,gender,d_id)
+        VALUES (#{lastName},#{email},#{gender},#{dId})
+    </insert>
+
+    <update id="updateEmp" parameterType="com.sunbc.bean.Employee">
+        UPDATE tb_employee SET last_name = #{lastName},email = #{email},gender = #{gender},d_id = #{dId}
+        WHERE id = #{id}
+    </update>
+
+    <delete id="deleteEmp">
+        DELETE FROM tb_employee WHERE id = #{id}
+    </delete>
+
+    <select id="getEmpByIdAndName" resultType="com.sunbc.bean.Employee">
+        SELECT * FROM tb_employee WHERE id =  #{id} AND last_name = #{lastName}
+    </select>
+
+    <select id="getEmpByLastNameLike" resultType="com.sunbc.bean.Employee">
+        SELECT * FROM tb_employee WHERE last_name LIKE CONCAT('%',#{lastName},'%')
+    </select>
+
+    <select id="getEmpByIdReturnMap" resultType="map">
+        SELECT * FROM tb_employee WHERE id =  #{id}
+    </select>
+
+    <select id="getEmpByLastNameReturnMap" resultType="com.sunbc.bean.Employee">
+        SELECT * FROM tb_employee WHERE last_name LIKE CONCAT('%',#{lastName},'%')
+    </select>
+
+    <resultMap id="myEmp" type="com.sunbc.bean.Employee">
+        <id column="id" property="id"></id>
+        <result column="last_name" property="lastName"></result>
+        <result column="email" property="email"></result>
+        <result column="gender" property="gender"></result>
+        <result column="did" property="dept.id"></result>
+        <result column="dept_name" property="dept.deptName"></result>
+    </resultMap>
+
+    <select id="getEmpAndDept" resultMap="myEmp2">
+        SELECT e.id id,e.last_name last_name,e.email email,e.gender gender,e.d_id d_id,
+			 d.id did,d.dept_name dept_name
+        FROM tb_employee e,tb_dept d
+        WHERE e.d_id = d.id
+        AND e.id = #{id}
+    </select>
+
+    <resultMap id="myEmp2" type="com.sunbc.bean.Employee">
+        <id column="id" property="id"></id>
+        <result column="last_name" property="lastName"></result>
+        <result column="email" property="email"></result>
+        <result column="gender" property="gender"></result>
+        <association property="dept" javaType="com.sunbc.bean.Department">
+            <id column="did" property="id"></id>
+            <result column="dept_name" property="deptName"></result>
+        </association>
+    </resultMap>
+
+    <resultMap id="myEmpByStep" type="com.sunbc.bean.Employee">
+        <id column="id" property="id"></id>
+        <result column="last_name" property="lastName"></result>
+        <result column="email" property="email"></result>
+        <result column="gender" property="gender"></result>
+        <association property="dept" select="com.sunbc.mapper.DepartmentMapper.getDeptById"
+            column="d_id">
+        </association>
+    </resultMap>
+    <select id="getEmpByIdStep" resultMap="myEmpDis">
+        SELECT * FROM tb_employee WHERE id =  #{id}
+    </select>
+
+    <select id="getEmpByDeptId" resultType="com.sunbc.bean.Employee">
+        SELECT * FROM tb_employee WHERE d_id = #{deptId}
+    </select>
+
+    <resultMap id="myEmpDis" type="com.sunbc.bean.Employee">
+        <id column="id" property="id"></id>
+        <result column="last_name" property="lastName"></result>
+        <result column="email" property="email"></result>
+        <result column="gender" property="gender"></result>
+
+        <discriminator javaType="string" column="gender">
+            <case value="0" resultType="com.sunbc.bean.Employee">
+                <association property="dept" select="com.sunbc.mapper.DepartmentMapper.getDeptById"
+                             column="d_id">
+                </association>
+            </case>
+            <case value="1" resultType="com.sunbc.bean.Employee">
+                <id column="id" property="id"></id>
+                <result column="last_name" property="lastName"></result>
+                <result column="last_name" property="email"></result>
+                <result column="gender" property="gender"></result>
+            </case>
+        </discriminator>
+    </resultMap>
+</mapper>
