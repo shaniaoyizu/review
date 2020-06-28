@@ -8,7 +8,6 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1-sources.jar!/" />
-      <root url="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/" />
       <root url="jar://E:/Jars/mybatis/01_Mybatis开发包/mybatis-3.4.1.zip!/" />
       <root url="jar://E:/Jars/mybatis/01_Mybatis开发包/mybatis-3-mybatis-3.4.1_source.zip!/mybatis-3-mybatis-3.4.1/src/main/java" />
       <root url="jar://E:/Jars/mybatis/01_Mybatis开发包/mybatis-3-mybatis-3.4.1_source.zip!/mybatis-3-mybatis-3.4.1/src/test/java" />

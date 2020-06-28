@@ -1,5 +1,8 @@
 package com.sunbc.factory;
 
+import com.github.pagehelper.Page;
+import com.github.pagehelper.PageHelper;
+import com.github.pagehelper.PageInfo;
 import com.sunbc.bean.Department;
 import com.sunbc.bean.Employee;
 import com.sunbc.mapper.DepartmentMapper;
@@ -37,15 +40,15 @@ public class MybatisTest {
 
     @Test
     public void test() throws IOException {
-        try(SqlSession openSession = sqlSessionFactory.openSession()) {
+        try (SqlSession openSession = sqlSessionFactory.openSession()) {
             Employee employee = openSession.selectOne("EmployeeMapper.selectEmp", 1);
             System.out.println(employee);
         }
     }
 
     @Test
-    public void test02(){
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()) {
+    public void test02() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
             EmployeeMapper mapper = sqlSession.getMapper(EmployeeMapper.class);
             System.out.println(mapper.getClass());
             Employee employee = mapper.getEmpById(1);
@@ -54,8 +57,8 @@ public class MybatisTest {
     }
 
     @Test
-    public void test03(){
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+    public void test03() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
             EmployeeMapperAnnotation mapper = sqlSession.getMapper(EmployeeMapperAnnotation.class);
             Employee employee = mapper.getEmpById(1);
             System.out.println(employee);
@@ -63,10 +66,10 @@ public class MybatisTest {
     }
 
     @Test
-    public void test04(){
-        try (SqlSession sqlSession = sqlSessionFactory.openSession()){
+    public void test04() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
             EmployeeMapper mapper = sqlSession.getMapper(EmployeeMapper.class);
-            Employee employee = new Employee(null,"流","xiao@xiao.com","0");
+            Employee employee = new Employee(null, "流", "xiao@xiao.com", "0");
             System.out.println(mapper.addEmp(employee));
             System.out.println(employee.getId());
             sqlSession.commit();
@@ -75,8 +78,8 @@ public class MybatisTest {
     }
 
     @Test
-    public void test05(){
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+    public void test05() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
             EmployeeMapper mapper = sqlSession.getMapper(EmployeeMapper.class);
             Employee employee = mapper.getEmpByIdAndName(1, "晓");
             System.out.println(employee);
@@ -84,8 +87,8 @@ public class MybatisTest {
     }
 
     @Test
-    public void test06(){
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+    public void test06() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
             EmployeeMapper mapper = sqlSession.getMapper(EmployeeMapper.class);
             List<Employee> list = mapper.getEmpByLastNameLike("晓");
             System.out.println(list);
@@ -93,8 +96,8 @@ public class MybatisTest {
     }
 
     @Test
-    public void test07(){
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+    public void test07() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
             EmployeeMapper mapper = sqlSession.getMapper(EmployeeMapper.class);
             Map<String, Object> map = mapper.getEmpByIdReturnMap(1);
             System.out.println(map);
@@ -102,8 +105,8 @@ public class MybatisTest {
     }
 
     @Test
-    public void test08(){
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+    public void test08() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
             EmployeeMapper mapper = sqlSession.getMapper(EmployeeMapper.class);
             Map<Integer, Employee> map = mapper.getEmpByLastNameReturnMap("晓");
             System.out.println(map);
@@ -111,8 +114,8 @@ public class MybatisTest {
     }
 
     @Test
-    public void test09(){
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+    public void test09() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
             EmployeeMapper mapper = sqlSession.getMapper(EmployeeMapper.class);
             Employee employee = mapper.getEmpAndDept(1);
             System.out.println(employee);
@@ -120,8 +123,8 @@ public class MybatisTest {
     }
 
     @Test
-    public void test10(){
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+    public void test10() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
             EmployeeMapper mapper = sqlSession.getMapper(EmployeeMapper.class);
             Employee employee = mapper.getEmpByIdStep(2);
             System.out.println(employee);
@@ -130,8 +133,8 @@ public class MybatisTest {
     }
 
     @Test
-    public void test11(){
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+    public void test11() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
             DepartmentMapper mapper = sqlSession.getMapper(DepartmentMapper.class);
             Department dept = mapper.getDeptByIdPlus(1);
             System.out.println(dept);
@@ -140,13 +143,35 @@ public class MybatisTest {
     }
 
     @Test
-    public void test12(){
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()){
+    public void test12() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
             DepartmentMapper mapper = sqlSession.getMapper(DepartmentMapper.class);
             Department dept = mapper.getDeptByIdStep(1);
             System.out.println(dept.getDeptName());
             System.out.println("---------------------");
             System.out.println(dept.getEmps());
+        }
+    }
+
+    @Test
+    public void test13() {
+        try (SqlSession sqlSession = sqlSessionFactory.openSession()) {
+            EmployeeMapper mapper = sqlSession.getMapper(EmployeeMapper.class);
+            Page<Object> page = PageHelper.startPage(1, 2);
+            List<Employee> list = mapper.getEmps();
+            PageInfo<Employee> pageInfo = new PageInfo<>(list, 5);
+            for (Employee employee : list) {
+                System.out.println(employee);
+            }
+            System.out.println("当前页码：" + pageInfo.getPageNum());
+            System.out.println("总记录数：" + pageInfo.getTotal());
+            System.out.println("每页记录数：" + pageInfo.getPageSize());
+            System.out.println("总页码：" + pageInfo.getPages());
+            System.out.println("是否第一页：" + pageInfo.isIsFirstPage());
+            int[] nums = pageInfo.getNavigatepageNums();
+            for (int i : nums) {
+                System.out.println(i);
+            }
         }
     }
 }

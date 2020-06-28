@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/util
+       http://www.springframework.org/schema/util/spring-util.xsd">
+
+    <bean id="helloWorld" class="com.sunbc.beans.HelloWorld">
+        <property name="name" value="Spring"/>
+    </bean>
+
+    <bean id="car" class="com.sunbc.beans.Car">
+        <constructor-arg value="Audi" index="0"></constructor-arg>
+        <constructor-arg value="Shanghai" index="1"></constructor-arg>
+        <constructor-arg value="300000" index="2"></constructor-arg>
+    </bean>
+
+    <bean id="car2" class="com.sunbc.beans.Car">
+        <constructor-arg value="Bmw" type="java.lang.String"></constructor-arg>
+        <constructor-arg type="java.lang.String">
+            <value><![CDATA[<Shanghai>]]></value>
+        </constructor-arg>
+        <constructor-arg type="int">
+            <value>250</value>
+        </constructor-arg>
+    </bean>
+
+    <bean id="person" class="com.sunbc.beans.Person">
+        <property name="name" value="Tom"/>
+        <property name="age" value="24"/>
+        <!--<property name="car" ref="car"/>-->
+        <property name="car">
+            <bean class="com.sunbc.beans.Car">
+                <constructor-arg value="Ford"></constructor-arg>
+                <constructor-arg value="Changan"></constructor-arg>
+                <constructor-arg value="20000" type="double"></constructor-arg>
+            </bean>
+        </property>
+        <property name="car.maxSpeed" value="260"></property>
+    </bean>
+
+    <bean id="person2" class="com.sunbc.beans.Person">
+        <constructor-arg value="Jerry"></constructor-arg>
+        <constructor-arg value="30"></constructor-arg>
+        <!--<constructor-arg><null/></constructor-arg>-->
+        <constructor-arg ref="car"></constructor-arg>
+        <property name="car.maxSpeed" value="250"></property>
+    </bean>
+
+    <bean id="person3" class="com.sunbc.beans.collections.Person">
+        <property name="name" value="Mike"/>
+        <property name="age" value="31"/>
+        <property name="car">
+            <list>
+                <ref bean="car"/>
+                <ref bean="car2"/>
+            </list>
+        </property>
+    </bean>
+
+    <bean class="com.sunbc.beans.collections.NewPerson" id="newPerson">
+        <property name="name" value="Rose"/>
+        <property name="age" value="20"/>
+        <property name="cars">
+            <map>
+                <entry key="aa" value-ref="car"/>
+                <entry key="bb" value-ref="car2"/>
+            </map>
+        </property>
+    </bean>
+
+    <bean class="com.sunbc.beans.collections.DataSource" id="dataSource">
+        <property name="properties">
+            <props>
+                <prop key="driver">com.mysql.jdbc.cj.Drive</prop>
+                <prop key="url">jdbc:mysql://localhost:test</prop>
+                <prop key="user">root</prop>
+                <prop key="password">123456</prop>
+            </props>
+        </property>
+    </bean>
+
+    <util:list id="cars">
+        <ref bean="car"/>
+        <ref bean="car2"/>
+    </util:list>
+
+    <bean class="com.sunbc.beans.collections.Person" id="person4">
+        <property name="name" value="Jack"/>
+        <property name="age" value="29"/>
+        <property name="car" ref="cars"/>
+    </bean>
+
+    <bean class="com.sunbc.beans.collections.Person" id="person5"
+        p:age="30" p:name="Queen" p:car-ref="cars"></bean>
+</beans>

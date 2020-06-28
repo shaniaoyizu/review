@@ -39,4 +39,6 @@ public interface EmployeeMapper {
     Employee getEmpByIdStep(Integer id);
 
     List<Employee> getEmpByDeptId(Integer deptId);
+
+    List<Employee> getEmps();
 }

@@ -103,4 +103,8 @@
             </case>
         </discriminator>
     </resultMap>
+
+    <select id="getEmps" resultType="com.sunbc.bean.Employee">
+        SELECT * FROM tb_employee
+    </select>
 </mapper>
