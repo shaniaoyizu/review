@@ -1,0 +1,5 @@
+some:
+  service:
+    enable: true
+    prefix: AAA--
+    suffix: --BBB

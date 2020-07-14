@@ -1,0 +1,22 @@
+management:
+  server:
+    port: 9999
+    servlet:
+      context-path: /ooo
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        exclude: ["env","health"]
+
+info:
+  company:
+    name: sunbc
+    url: http://www.sunbc.com
+    address: Beijing China
+  author:
+    name: 张三
+    department: 研发部
+  project:
+    groupId: @project.groupId@
+    artifactId: @project.artifactId@

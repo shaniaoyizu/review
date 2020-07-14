@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "some.service",
+      "type": "com.sunbc.wrap.config.SomeServiceProperties",
+      "sourceType": "com.sunbc.wrap.config.SomeServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "some.service.prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.sunbc.wrap.config.SomeServiceProperties"
+    },
+    {
+      "name": "some.service.suffix",
+      "type": "java.lang.String",
+      "sourceType": "com.sunbc.wrap.config.SomeServiceProperties"
+    }
+  ],
+  "hints": []
+}

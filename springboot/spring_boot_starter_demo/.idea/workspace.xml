@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57277f47-17e5-457e-bb3b-b742f23c084f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/spring_annotation_demo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/bean/Blue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/bean/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/bean/Cat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/bean/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/bean/ColorFactoryBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/bean/MyBeanPostProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/bean/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/bean/RainBow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/bean/Red.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/bean/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/bean/Yellow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/condition/LinuxCondition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/condition/MyBeanDefinitionRegistrar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/condition/MyImportSelector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/condition/WindowsCondition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/config/AppConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/config/LiteAppConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/config/MyConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/config/MyConfig2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/config/MyConfigOfLifeCycle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/config/MyConfigOfProfile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/config/MyConfigOfPropertiesValues.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/config/MyTypeFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/controller/BookController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/dao/BookDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/java/com/sunbc/service/BookService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/resources/beans.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/resources/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/main/resources/person.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/test/java/com/sunbc/Test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/test/java/com/sunbc/TestFullAndLite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/test/java/com/sunbc/TestLifeCycle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/test/java/com/sunbc/TestProfile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../spring/spring_annotation_demo/src/test/java/com/sunbc/TestProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/artifacts/spring_boot_04_web_jsp_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/artifacts/spring_boot_04_web_jsp_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_alibaba_druid_1_1_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_36.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_36.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_17_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_orm_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_test_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_tx_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_web_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_webjars_jquery_3_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_jsp/src/main/java/com/sunbc/webjsp/controller/HelloController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_jsp/src/main/webapp/WEB-INF/success.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_jsp/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_jsp/src/main/webapp/hello.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/spring_boot_04_web_restfulcrud.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/java/com/sunbc/restful/attributes/MyErrorAttributes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/java/com/sunbc/restful/config/MyMvcConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/java/com/sunbc/restful/config/MyServletConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/java/com/sunbc/restful/controller/HelloController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/java/com/sunbc/restful/exception/UserNotExistException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/java/com/sunbc/restful/filter/MyFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/java/com/sunbc/restful/handler/MyExceptionHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/java/com/sunbc/restful/listener/MyListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/java/com/sunbc/restful/servlet/MyServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/static/asserts/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/static/asserts/css/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/static/asserts/css/signin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/static/asserts/img/bootstrap-solid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/static/asserts/js/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/static/asserts/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/static/asserts/js/feather.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/static/asserts/js/jquery-3.2.1.slim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/static/asserts/js/popper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/templates/error/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/templates/error/4xx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_04_web_restfulcrud/src/main/resources/templates/error/5xx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_jdbc/src/main/java/com/sunbc/jdbc/config/DruidConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_jdbc/src/main/java/com/sunbc/jdbc/controller/HelloController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_jdbc/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_jdbc/src/main/resources/department.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_jpa/src/main/java/com/sunbc/jpa/controller/UserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_jpa/src/main/java/com/sunbc/jpa/entity/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_jpa/src/main/java/com/sunbc/jpa/repository/UserRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_jpa/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_mybatis/src/main/java/com/sunbc/mybatis/beans/Department.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_mybatis/src/main/java/com/sunbc/mybatis/beans/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_mybatis/src/main/java/com/sunbc/mybatis/config/DruidConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_mybatis/src/main/java/com/sunbc/mybatis/controller/DeptController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_mybatis/src/main/java/com/sunbc/mybatis/mapper/DepartMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_mybatis/src/main/java/com/sunbc/mybatis/mapper/EmployeeMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_mybatis/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_mybatis/src/main/resources/mybatis/mapper/employee.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_mybatis/src/main/resources/mybatis/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_mybatis/src/main/resources/sql/department.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_06_data_mybatis/src/main/resources/sql/employee.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_07/src/main/java/com/sunbc/springboot/listener/HelloApplicationContextInitializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_07/src/main/java/com/sunbc/springboot/listener/HelloApplicationRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_07/src/main/java/com/sunbc/springboot/listener/HelloCommanLineRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_07/src/main/java/com/sunbc/springboot/listener/HelloSpringApplicationRunListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/spring_boot_07/src/main/resources/META-INF/spring.factories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/wrap_09_test/src/main/java/com/sunbc/test/controller/HelloController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/wrap_spring_boot_08_autoconfigurer/src/main/java/com/sunbc/autoconfigurer/HelloAutoConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/wrap_spring_boot_08_autoconfigurer/src/main/java/com/sunbc/autoconfigurer/HelloProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/wrap_spring_boot_08_autoconfigurer/src/main/java/com/sunbc/autoconfigurer/HelloService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_boot_demo/wrap_spring_boot_08_autoconfigurer/src/main/resources/META-INF/spring.factories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_36.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_36.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrap-test/src/main/java/com/sunbc/wraptest/controller/SomeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrap-test/wrap-test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/config/SomeServiceAutoConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/config/SomeServiceProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/service/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrap_spring_boot_starter/src/main/resources/META-INF/spring.factories" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/artifacts/spring_springmvc_demo_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_impl_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_spec_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/spring_springmvc_demo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/beans/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/dao/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/handler/UserHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/listener/MyServletContextListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/service/UserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/servlet/HelloServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/resources/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/resources/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/web/WEB-INF/views/success.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/artifacts/springmvc_demo_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_impl_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_spec_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/springmvc_demo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/beans/Department.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/beans/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/dao/DepartmentDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/dao/EmployeeDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/handler/RestCrudHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/handler/Springmvc2Handler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/handler/SpringmvcHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/helloworld/SpringMVCHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/interceptor/MyFirstInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/resources/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/views/input.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/views/list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/views/success.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/scripts/jquery-1.7.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../spring/spring_demo/target/test-classes/test/Test12.class" afterPath="$PROJECT_DIR$/../../spring/spring_demo/target/test-classes/test/Test12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/mybatis_spring_demo.iml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/mybatis_spring_demo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/pom.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../spring/spring_aop_demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../spring/spring_aop_demo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../spring/spring_demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../spring/spring_demo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../spring/spring_tx_demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../spring/spring_tx_demo/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/wrap_spring_boot_starter/target/" />
+    <ignored path="$PROJECT_DIR$/wrap-test/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SomeService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/service/SomeService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SomeServiceProperties.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/config/SomeServiceProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SomeServiceAutoConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/config/SomeServiceAutoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+              <folding>
+                <element signature="e#1017#1018#0" expanded="true" />
+                <element signature="e#1103#1104#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FACTORIES_RESOURCE_LOCATION</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/config/SomeServiceProperties.java" />
+        <option value="$PROJECT_DIR$/wrap_spring_boot_starter/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/wrap-test/pom.xml" />
+        <option value="$PROJECT_DIR$/wrap-test/src/main/java/com/sunbc/wraptest/controller/SomeController.java" />
+        <option value="$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/service/SomeService.java" />
+        <option value="$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/config/SomeServiceAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/wrap-test/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/JavaEnvironment/maven/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="25" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SerializableHasSerialVersionUIDField</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sunbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sunbc" type="462c0819:PsiDirectoryNode" />
+              <item name="wraptest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sunbc" type="462c0819:PsiDirectoryNode" />
+              <item name="wraptest" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap_spring_boot_starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap_spring_boot_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap_spring_boot_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap_spring_boot_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap_spring_boot_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap_spring_boot_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sunbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap_spring_boot_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sunbc" type="462c0819:PsiDirectoryNode" />
+              <item name="wrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap_spring_boot_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sunbc" type="462c0819:PsiDirectoryNode" />
+              <item name="wrap" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrap_spring_boot_starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sunbc" type="462c0819:PsiDirectoryNode" />
+              <item name="wrap" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="boot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="boot" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_boot_starter_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.3.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-boot-autoconfigure-2.3.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="boot" type="462c0819:PsiDirectoryNode" />
+              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+              <item name="amqp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WrapTestApplication">
+    <configuration name="WrapSpringBootStarterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunbc.wrap.WrapSpringBootStarterApplication" />
+      <module name="wrap_spring_boot_starter" />
+      <envs />
+    </configuration>
+    <configuration name="WrapTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sunbc.wraptest.WrapTestApplication" />
+      <module name="wrap-test" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.WrapSpringBootStarterApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.WrapTestApplication" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57277f47-17e5-457e-bb3b-b742f23c084f" name="Default" comment="" />
+      <created>1594202294876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594202294876</updated>
+      <workItem from="1594202298347" duration="4008000" />
+      <workItem from="1594269580557" duration="6687000" />
+      <workItem from="1594464221889" duration="966000" />
+      <workItem from="1594471680888" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12271000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35273972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37392795" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" x="20" y="422" width="1322" height="235" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761577" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39258698" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33447686" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/service/SomeService.java</url>
+          <line>18</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java</url>
+          <line>177</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/ImportAutoConfigurationImportSelector.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java</url>
+          <line>309</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java</url>
+          <line>248</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java</url>
+          <line>197</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java</url>
+          <line>179</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java</url>
+          <line>176</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java</url>
+          <line>173</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java</url>
+          <line>318</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java</url>
+          <line>265</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java</url>
+          <line>235</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>706</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>532</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>425</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>419</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>271</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>252</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>1236</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>1225</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.7.RELEASE/spring-core-5.2.7.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java</url>
+          <line>131</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.7.RELEASE/spring-core-5.2.7.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.7.RELEASE/spring-core-5.2.7.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java</url>
+          <line>147</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="35" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wrap_spring_boot_starter/src/main/resources/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="113" lean-forward="false" selection-start-line="0" selection-start-column="113" selection-end-line="0" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap_spring_boot_starter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="37" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.7.RELEASE/spring-web-5.2.7.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap_spring_boot_starter/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConfigurationProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE-sources.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/ConditionalOnProperty.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/condition/ConditionalOnProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="134" column="7" lean-forward="true" selection-start-line="134" selection-start-column="7" selection-end-line="134" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap-test/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.7.RELEASE/spring-core-5.2.7.RELEASE.jar!/org/springframework/core/io/support/SpringFactoriesLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="62" column="31" lean-forward="false" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JavaEnvironment/jdk1.8.0_172/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="638" column="18" lean-forward="false" selection-start-line="638" selection-start-column="18" selection-end-line="638" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar!/org/springframework/context/annotation/ImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="706" column="0" lean-forward="false" selection-start-line="706" selection-start-column="0" selection-end-line="706" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/support/PostProcessorRegistrationDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="318" column="0" lean-forward="false" selection-start-line="318" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE-sources.jar!/org/springframework/boot/SpringBootConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="46" column="18" lean-forward="false" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationExcludeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/ImportAutoConfigurationImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="60" column="47" lean-forward="false" selection-start-line="60" selection-start-column="47" selection-end-line="60" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/DeferredImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="37" column="53" lean-forward="false" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JavaEnvironment/jdk1.8.0_172/src.zip!/java/util/Enumeration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="60" column="17" lean-forward="false" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.7.RELEASE/spring-core-5.2.7.RELEASE-sources.jar!/org/springframework/util/MultiValueMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="42" column="82" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="425" column="78" lean-forward="false" selection-start-line="425" selection-start-column="78" selection-end-line="425" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JavaEnvironment/jdk1.8.0_172/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="564" column="59" lean-forward="false" selection-start-line="564" selection-start-column="7" selection-end-line="564" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/template/TemplateAvailabilityProviders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConditionEvaluator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="373" column="0" lean-forward="false" selection-start-line="373" selection-start-column="0" selection-end-line="373" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/error/ErrorMvcAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="185" column="0" lean-forward="false" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/condition/SpringBootCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/aop/AopAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-619">
+          <caret line="44" column="97" lean-forward="false" selection-start-line="44" selection-start-column="83" selection-end-line="44" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.7.RELEASE/spring-webmvc-5.2.7.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="53" column="13" lean-forward="false" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.7.RELEASE/spring-webmvc-5.2.7.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="83" column="13" lean-forward="false" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.7.RELEASE/spring-webmvc-5.2.7.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="140" column="41" lean-forward="false" selection-start-line="140" selection-start-column="41" selection-end-line="140" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/amqp/RabbitAnnotationDrivenConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="42" column="41" lean-forward="false" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/amqp/RabbitProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2503">
+          <caret line="45" column="24" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.3.1.RELEASE/spring-boot-starter-web-2.3.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="44" column="5" lean-forward="false" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.1.RELEASE/spring-boot-dependencies-2.3.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="237" column="23" lean-forward="false" selection-start-line="237" selection-start-column="3" selection-end-line="237" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.3.1.RELEASE/spring-boot-starter-parent-2.3.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap-test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="23" column="58" lean-forward="true" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="55" column="19" lean-forward="false" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="82" column="27" lean-forward="false" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE-sources.jar!/org/springframework/context/annotation/ImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="177" column="67" lean-forward="false" selection-start-line="177" selection-start-column="67" selection-end-line="177" selection-end-column="67" />
+          <folding>
+            <element signature="e#7647#7648#0" expanded="true" />
+            <element signature="e#7690#7691#0" expanded="true" />
+            <element signature="e#12529#12530#0" expanded="true" />
+            <element signature="e#12563#12564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.7.RELEASE/spring-core-5.2.7.RELEASE-sources.jar!/org/springframework/core/io/support/SpringFactoriesLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="121" column="22" lean-forward="false" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap-test/src/main/java/com/sunbc/wraptest/controller/SomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap-test/src/main/java/com/sunbc/wraptest/WrapTestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.1.RELEASE/spring-boot-autoconfigure-2.3.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/amqp/RabbitAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2777">
+          <caret line="187" column="60" lean-forward="true" selection-start-line="187" selection-start-column="60" selection-end-line="187" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/config/SomeServiceProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/config/SomeServiceAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="29" column="24" lean-forward="false" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1103#1104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wrap_spring_boot_starter/src/main/java/com/sunbc/wrap/service/SomeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

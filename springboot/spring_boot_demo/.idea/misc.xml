@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring_boot_04_web_jsp" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring_boot_03_logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_04_web_restfulcrud/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_04_web_jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_06_data_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_06_data_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_06_data_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_07/pom.xml" />
+        <option value="$PROJECT_DIR$/wrap_spring_boot_08_starter/pom.xml" />
+        <option value="$PROJECT_DIR$/wrap_spring_boot_08_autoconfigurer/pom.xml" />
+        <option value="$PROJECT_DIR$/wrap_09_test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_10_cache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_11_amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_12_elastic/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_13_task/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_14_security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_15_dubbo_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_15_dubbo_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_16_eureka_server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_16_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_16_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_boot_17_autuator/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+</project>

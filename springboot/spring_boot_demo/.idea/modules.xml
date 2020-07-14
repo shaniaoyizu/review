@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_03_logging/spring_boot_03_logging.iml" filepath="$PROJECT_DIR$/spring_boot_03_logging/spring_boot_03_logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_04_web_jsp/spring_boot_04_web_jsp.iml" filepath="$PROJECT_DIR$/spring_boot_04_web_jsp/spring_boot_04_web_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_04_web_restfulcrud/spring_boot_04_web_restfulcrud.iml" filepath="$PROJECT_DIR$/spring_boot_04_web_restfulcrud/spring_boot_04_web_restfulcrud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_06_data_jdbc/spring_boot_06_data_jdbc.iml" filepath="$PROJECT_DIR$/spring_boot_06_data_jdbc/spring_boot_06_data_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_06_data_jpa/spring_boot_06_data_jpa.iml" filepath="$PROJECT_DIR$/spring_boot_06_data_jpa/spring_boot_06_data_jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_06_data_mybatis/spring_boot_06_data_mybatis.iml" filepath="$PROJECT_DIR$/spring_boot_06_data_mybatis/spring_boot_06_data_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_07/spring_boot_07.iml" filepath="$PROJECT_DIR$/spring_boot_07/spring_boot_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_10_cache/spring_boot_10_cache.iml" filepath="$PROJECT_DIR$/spring_boot_10_cache/spring_boot_10_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_11_amqp/spring_boot_11_amqp.iml" filepath="$PROJECT_DIR$/spring_boot_11_amqp/spring_boot_11_amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_12_elastic/spring_boot_12_elastic.iml" filepath="$PROJECT_DIR$/spring_boot_12_elastic/spring_boot_12_elastic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_13_task/spring_boot_13_task.iml" filepath="$PROJECT_DIR$/spring_boot_13_task/spring_boot_13_task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_14_security/spring_boot_14_security.iml" filepath="$PROJECT_DIR$/spring_boot_14_security/spring_boot_14_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_15_dubbo_consumer/spring_boot_15_dubbo_consumer.iml" filepath="$PROJECT_DIR$/spring_boot_15_dubbo_consumer/spring_boot_15_dubbo_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_15_dubbo_provider/spring_boot_15_dubbo_provider.iml" filepath="$PROJECT_DIR$/spring_boot_15_dubbo_provider/spring_boot_15_dubbo_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_17_autuator/spring_boot_17_autuator.iml" filepath="$PROJECT_DIR$/spring_boot_17_autuator/spring_boot_17_autuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_16_consumer/spring_cloud_16_consumer.iml" filepath="$PROJECT_DIR$/spring_cloud_16_consumer/spring_cloud_16_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_16_eureka_server/spring_cloud_16_eureka_server.iml" filepath="$PROJECT_DIR$/spring_cloud_16_eureka_server/spring_cloud_16_eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_16_provider/spring_cloud_16_provider.iml" filepath="$PROJECT_DIR$/spring_cloud_16_provider/spring_cloud_16_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrap_09_test/wrap_09_test.iml" filepath="$PROJECT_DIR$/wrap_09_test/wrap_09_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrap_spring_boot_08_autoconfigurer/wrap_spring_boot_08_autoconfigurer.iml" filepath="$PROJECT_DIR$/wrap_spring_boot_08_autoconfigurer/wrap_spring_boot_08_autoconfigurer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrap_spring_boot_08_starter/wrap_spring_boot_08_starter.iml" filepath="$PROJECT_DIR$/wrap_spring_boot_08_starter/wrap_spring_boot_08_starter.iml" />
+    </modules>
+  </component>
+</project>

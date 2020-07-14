@@ -2,342 +2,148 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38187745-ff1c-4b4b-a1d7-0965f51e8ddd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/src/main/java/com/sunbc/plugin/MyFirstPlugin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/src/main/java/com/sunbc/plugin/MySecondPlugin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_mybatis_mybatis_3_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/libraries/Maven__p6spy_p6spy_3_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/mybatis_plus_demo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/java/com/sunbc/beans/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/java/com/sunbc/beans/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/java/com/sunbc/injector/MySqlInjector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/java/com/sunbc/mapper/EmployeeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/java/com/sunbc/mapper/UserMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/java/com/sunbc/meta/MyMetaObjectHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/java/com/sunbc/method/DeleteAll.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/resources/dbConfig.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/resources/log4j.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/resources/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/main/resources/spy.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/test/java/com/sunbc/test/TestMp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/test/java/com/sunbc/test/TestMpAr.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_demo/src/test/java/com/sunbc/test/TestUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_mybatis_mybatis_3_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/mybatis_plus_generator.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/src/main/resources/dbConfig.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/src/main/resources/log4j.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/src/main/resources/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_plus_generator/src/test/java/com/sunbc/test/TestMP.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/artifacts/mybatis_spring_demo_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_impl_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_spec_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/mybatis_spring_demo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/src/main/java/com/sunbc/bean/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/src/main/java/com/sunbc/bean/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/src/main/java/com/sunbc/controller/EmployeeController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/src/main/java/com/sunbc/mapper/EmployeeMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/src/main/java/com/sunbc/service/EmployeeService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/src/main/resources/dbConfig.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/src/main/resources/mapper/EmployeeMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/src/main/resources/mybatis-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/web/WEB-INF/pages/list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/web/WEB-INF/spring-servlet.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__net_sourceforge_cglib_com_springsource_net_sf_cglib_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__org_aopalliance_com_springsource_org_aopalliance_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/spring_aop_demo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/main/java/com/sunbc/spring/aop/ArithmeticCalculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/main/java/com/sunbc/spring/aop/ArithmeticCalculatorImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/main/java/com/sunbc/spring/aop/ArithmeticCalculatorLoggingProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/main/java/com/sunbc/spring/aop/impl/ArithmeticCalculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/main/java/com/sunbc/spring/aop/impl/ArithmeticCalculatorImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/main/java/com/sunbc/spring/aop/impl/LoggingAspect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/main/java/com/sunbc/spring/aop/xml/ArithmeticCalculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/main/java/com/sunbc/spring/aop/xml/ArithmeticCalculatorImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/main/java/com/sunbc/spring/aop/xml/LoggingAspect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/main/resources/applicationContext-xml.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/test/java/Test01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/test/java/Test02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_aop_demo/src/test/java/Test03.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/annotation/TestObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/annotation/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/annotation/respository/UserRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/annotation/respository/UserRepositoryImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/annotation/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/autowire/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/autowire/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/autowire/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/collections/DataSource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/collections/NewPerson.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/collections/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/cycle/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/factory/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/factory/InstanceCarFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/factory/StaticFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/factorybean/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/factorybean/CarFactoryBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/generic/di/BaseRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/generic/di/BaseService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/generic/di/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/generic/di/UserRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/generic/di/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/processor/MyBeanPostProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/spel/Address.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/spel/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/java/com/sunbc/beans/spel/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/beans-annotation.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/beans-autowire.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/beans-beanfactory.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/beans-cycle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/beans-factory.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/beans-generic-di.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/beans-relation.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/beans-spel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/spring-properties.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/main/resources/spring-scope.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test03.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test04.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test05.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test06.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test07.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test08.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test09.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_demo/src/test/java/test/Test12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__net_sourceforge_cglib_com_springsource_net_sf_cglib_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_aopalliance_com_springsource_org_aopalliance_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/spring_jdbc_demo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/src/main/resources/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_jdbc_demo/src/test/java/JDBCTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cglib_com_springsource_net_sf_cglib_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aopalliance_com_springsource_org_aopalliance_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring_tx_demo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/exception/BookStockException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/exception/UserAccountException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/annotation/Cashier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/annotation/CashierImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/annotation/dao/BookShopDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/annotation/dao/impl/BookShopDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/annotation/service/BookShopService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/annotation/service/impl/BookShopServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/xml/service/BookShopDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/xml/service/BookShopService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/xml/service/Cashier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/xml/service/impl/BookShopDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/xml/service/impl/BookShopServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sunbc/spring/tx/xml/service/impl/CashierImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-tx.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestJDBC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestTransaction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestTransactionXml.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/target/classes/com/sunbc/mapper/EmployeeMapper.class" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/target/classes/com/sunbc/mapper/EmployeeMapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/target/test-classes/com/sunbc/factory/MybatisTest.class" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/target/test-classes/com/sunbc/factory/MybatisTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/.idea/libraries/Maven__org_mybatis_mybatis_3_4_1.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/.idea/libraries/Maven__org_mybatis_mybatis_3_4_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/mybatis_demo.iml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/mybatis_demo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/pom.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/src/main/java/com/sunbc/mapper/EmployeeMapper.java" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/src/main/java/com/sunbc/mapper/EmployeeMapper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/src/main/resources/com/sunbc/mapper/EmployeeMapper.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/src/main/resources/com/sunbc/mapper/EmployeeMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/src/main/resources/mybatis-config.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/src/main/resources/mybatis-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/src/test/java/com/sunbc/factory/MybatisTest.java" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/src/test/java/com/sunbc/factory/MybatisTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/target/classes/com/sunbc/mapper/EmployeeMapper.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/target/classes/com/sunbc/mapper/EmployeeMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_demo/target/classes/mybatis-config.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_demo/target/classes/mybatis-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/spring_annotation_demo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/bean/Blue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/bean/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/bean/Cat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/bean/Color.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/bean/ColorFactoryBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/bean/MyBeanPostProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/bean/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/bean/RainBow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/bean/Red.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/bean/Yellow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/condition/LinuxCondition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/condition/MyBeanDefinitionRegistrar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/condition/MyImportSelector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/condition/WindowsCondition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/config/MyConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/config/MyConfig2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/config/MyConfigOfLifeCycle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/config/MyConfigOfProfile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/config/MyConfigOfPropertiesValues.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/config/MyTypeFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/controller/BookController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/dao/BookDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/java/com/sunbc/service/BookService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/resources/beans.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/resources/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/main/resources/person.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/test/java/com/sunbc/Test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/test/java/com/sunbc/TestLifeCycle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/test/java/com/sunbc/TestProfile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_annotation_demo/src/test/java/com/sunbc/TestProperties.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/artifacts/spring_springmvc_demo_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_impl_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_spec_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/spring_springmvc_demo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/beans/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/dao/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/handler/UserHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/listener/MyServletContextListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/service/UserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/java/com/sunbc/ss/servlet/HelloServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/resources/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/src/main/resources/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/web/WEB-INF/views/success.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/spring_springmvc_demo/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/artifacts/springmvc_demo_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_impl_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_spec_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_orm_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/springmvc_demo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/beans/Department.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/beans/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/dao/DepartmentDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/dao/EmployeeDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/handler/RestCrudHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/handler/Springmvc2Handler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/handler/SpringmvcHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/helloworld/SpringMVCHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/java/com/sunbc/springmvc/interceptor/MyFirstInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/src/main/resources/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/views/input.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/views/list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/views/success.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../springmvc/springmvc_demo/web/scripts/jquery-1.7.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_demo/target/test-classes/test/Test12.class" afterPath="$PROJECT_DIR$/../spring_demo/target/test-classes/test/Test12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/mybatis_spring_demo.iml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/mybatis_spring_demo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/pom.xml" afterPath="$PROJECT_DIR$/../../mybatis/mybatis_spring_demo/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_aop_demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../spring_aop_demo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_demo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../spring_demo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -350,11 +156,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="applicationContext-tx.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="applicationContext-tx.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-tx.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="50" column="70" lean-forward="false" selection-start-line="50" selection-start-column="70" selection-end-line="50" selection-end-column="70" />
+            <state relative-caret-position="371">
+              <caret line="50" column="41" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -379,18 +185,18 @@
       <file leaf-file-name="BeanFactory.java" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
+            <state relative-caret-position="485">
               <caret line="187" column="10" lean-forward="false" selection-start-line="187" selection-start-column="10" selection-end-line="187" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="1896">
+              <caret line="79" column="41" lean-forward="false" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -482,11 +288,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-26" />
-    <option name="y" value="344" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="25" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -522,8 +328,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -632,15 +437,12 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring_tx_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -653,6 +455,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="MethodBeforea&#9;PSI&#9;JAVA://org.springframework.aop.MethodBeforeAdvice&#10;PlatformTran&#9;PSI&#9;JAVA://org.springframework.transaction.PlatformTransactionManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -876,6 +679,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="38187745-ff1c-4b4b-a1d7-0965f51e8ddd" name="Default" comment="" />
@@ -884,7 +690,10 @@
       <option name="presentableId" value="Default" />
       <updated>1593263159840</updated>
       <workItem from="1593263163102" duration="9274000" />
-      <workItem from="1593315920095" duration="1238000" />
+      <workItem from="1593315920095" duration="5621000" />
+      <workItem from="1593404424987" duration="1437000" />
+      <workItem from="1594002644950" duration="32000" />
+      <workItem from="1594039127270" duration="70000" />
     </task>
     <servers />
   </component>
@@ -921,10 +730,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10512000" />
+    <option name="totallyTimeSpent" value="16434000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -934,22 +743,22 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5128645" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" x="20" y="422" width="1322" height="235" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5128645" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" x="20" y="422" width="1322" height="235" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30635402" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2927383" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -968,6 +777,124 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestTransactionXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1896">
+          <caret line="79" column="41" lean-forward="false" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4104">
+          <caret line="187" column="10" lean-forward="false" selection-start-line="187" selection-start-column="10" selection-end-line="187" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-tx.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" column="70" lean-forward="false" selection-start-line="50" selection-start-column="70" selection-end-line="50" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestTransactionXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4104">
+          <caret line="187" column="10" lean-forward="false" selection-start-line="187" selection-start-column="10" selection-end-line="187" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#927#940#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1896">
+          <caret line="79" column="41" lean-forward="true" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-tx.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" column="70" lean-forward="false" selection-start-line="50" selection-start-column="70" selection-end-line="50" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestTransactionXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4488">
+          <caret line="187" column="10" lean-forward="false" selection-start-line="187" selection-start-column="10" selection-end-line="187" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#927#940#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-tx.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
@@ -998,23 +925,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="112" column="19" lean-forward="false" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestJDBC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="27" column="53" lean-forward="false" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#410#411#0" expanded="false" />
-            <element signature="e#492#493#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1094,19 +1008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="54" column="57" lean-forward="false" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#914#915#0" expanded="false" />
-            <element signature="e#989#990#0" expanded="false" />
-            <element signature="e#1026#1027#0" expanded="false" />
-            <element signature="e#1077#1078#0" expanded="false" />
-            <element signature="e#1114#1115#0" expanded="false" />
-            <element signature="e#1169#1170#0" expanded="false" />
-            <element signature="e#1206#1207#0" expanded="false" />
-            <element signature="e#1259#1260#0" expanded="false" />
-            <element signature="e#1296#1297#0" expanded="false" />
-            <element signature="e#1364#1365#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1156,7 +1057,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1164,7 +1064,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1186,15 +1085,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-tx.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="50" column="70" lean-forward="false" selection-start-line="50" selection-start-column="70" selection-end-line="50" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1212,18 +1102,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.6.RELEASE/spring-tx-5.1.6.RELEASE-sources.jar!/org/springframework/transaction/PlatformTransactionManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="187" column="10" lean-forward="false" selection-start-line="187" selection-start-column="10" selection-end-line="187" selection-end-column="10" />
+        <state relative-caret-position="168">
+          <caret line="21" column="71" lean-forward="false" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE-sources.jar!/org/springframework/aop/aspectj/AspectJMethodBeforeAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE-sources.jar!/org/springframework/aop/BeforeAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE-sources.jar!/org/springframework/aop/MethodBeforeAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE-sources.jar!/org/springframework/aop/AfterReturningAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE-sources.jar!/org/springframework/aop/AfterAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE-sources.jar!/org/aopalliance/aop/Advice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE-sources.jar!/org/springframework/aop/ThrowsAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="50" column="42" lean-forward="false" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1896">
+          <caret line="79" column="41" lean-forward="false" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="264">
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#927#940#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="187" column="10" lean-forward="false" selection-start-line="187" selection-start-column="10" selection-end-line="187" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-tx.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="50" column="41" lean-forward="false" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="41" />
           <folding />
         </state>
       </provider>
