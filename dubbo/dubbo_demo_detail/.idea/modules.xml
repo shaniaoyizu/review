@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00-api/00-api.iml" filepath="$PROJECT_DIR$/00-api/00-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-consumer/01-consumer.iml" filepath="$PROJECT_DIR$/01-consumer/01-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-provider/01-provider.iml" filepath="$PROJECT_DIR$/01-provider/01-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-provider2/01-provider2.iml" filepath="$PROJECT_DIR$/01-provider2/01-provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-consumer-zk/02-consumer-zk.iml" filepath="$PROJECT_DIR$/02-consumer-zk/02-consumer-zk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-provider-zk/02-provider-zk.iml" filepath="$PROJECT_DIR$/02-provider-zk/02-provider-zk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-provider-zk01/02-provider-zk01.iml" filepath="$PROJECT_DIR$/02-provider-zk01/02-provider-zk01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-provider-zk02/02-provider-zk02.iml" filepath="$PROJECT_DIR$/02-provider-zk02/02-provider-zk02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-provider-zk03/02-provider-zk03.iml" filepath="$PROJECT_DIR$/02-provider-zk03/02-provider-zk03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-consumer-web/03-consumer-web.iml" filepath="$PROJECT_DIR$/03-consumer-web/03-consumer-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-provider-web/03-provider-web.iml" filepath="$PROJECT_DIR$/03-provider-web/03-provider-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-commons/04-commons.iml" filepath="$PROJECT_DIR$/04-commons/04-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-consumer-version/04-consumer-version.iml" filepath="$PROJECT_DIR$/04-consumer-version/04-consumer-version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-provider-version/04-provider-version.iml" filepath="$PROJECT_DIR$/04-provider-version/04-provider-version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-consumer-group/05-consumer-group.iml" filepath="$PROJECT_DIR$/05-consumer-group/05-consumer-group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-provider-group/05-provider-group.iml" filepath="$PROJECT_DIR$/05-provider-group/05-provider-group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-consumer-mockclass/06-consumer-mockclass.iml" filepath="$PROJECT_DIR$/06-consumer-mockclass/06-consumer-mockclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-consumer-mocknull/06-consumer-mocknull.iml" filepath="$PROJECT_DIR$/06-consumer-mocknull/06-consumer-mocknull.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-consumer-timeout/06-consumer-timeout.iml" filepath="$PROJECT_DIR$/06-consumer-timeout/06-consumer-timeout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-provider-timeout/06-provider-timeout.iml" filepath="$PROJECT_DIR$/06-provider-timeout/06-provider-timeout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-consumer-cache/07-consumer-cache.iml" filepath="$PROJECT_DIR$/07-consumer-cache/07-consumer-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-consumer-registers/08-consumer-registers.iml" filepath="$PROJECT_DIR$/08-consumer-registers/08-consumer-registers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-provider-registers/08-provider-registers.iml" filepath="$PROJECT_DIR$/08-provider-registers/08-provider-registers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-provider-oneway/09-provider-oneway.iml" filepath="$PROJECT_DIR$/09-provider-oneway/09-provider-oneway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-consumer-async/10-consumer-async.iml" filepath="$PROJECT_DIR$/10-consumer-async/10-consumer-async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-consumer-async2/10-consumer-async2.iml" filepath="$PROJECT_DIR$/10-consumer-async2/10-consumer-async2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-provider-async/10-provider-async.iml" filepath="$PROJECT_DIR$/10-provider-async/10-provider-async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-provider-async2/10-provider-async2.iml" filepath="$PROJECT_DIR$/10-provider-async2/10-provider-async2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-provider-async3/10-provider-async3.iml" filepath="$PROJECT_DIR$/10-provider-async3/10-provider-async3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-consumer-springboot/11-consumer-springboot.iml" filepath="$PROJECT_DIR$/11-consumer-springboot/11-consumer-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-dubboCommons/11-dubboCommons.iml" filepath="$PROJECT_DIR$/11-dubboCommons/11-dubboCommons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-provider-springboot/11-provider-springboot.iml" filepath="$PROJECT_DIR$/11-provider-springboot/11-provider-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-jdkspi/12-jdkspi.iml" filepath="$PROJECT_DIR$/12-jdkspi/12-jdkspi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-dubbospi/13-dubbospi.iml" filepath="$PROJECT_DIR$/13-dubbospi/13-dubbospi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-adaptiveclass/14-adaptiveclass.iml" filepath="$PROJECT_DIR$/14-adaptiveclass/14-adaptiveclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-adaptivemethod/14-adaptivemethod.iml" filepath="$PROJECT_DIR$/14-adaptivemethod/14-adaptivemethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-wrapper/15-wrapper.iml" filepath="$PROJECT_DIR$/15-wrapper/15-wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-activate/16-activate.iml" filepath="$PROJECT_DIR$/16-activate/16-activate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-javassist/17-javassist.iml" filepath="$PROJECT_DIR$/17-javassist/17-javassist.iml" />
+    </modules>
+  </component>
+</project>

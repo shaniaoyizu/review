@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot_dubbo_order_service_consumer/boot_dubbo_order_service_consumer.iml" filepath="$PROJECT_DIR$/boot_dubbo_order_service_consumer/boot_dubbo_order_service_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot_dubbo_user_service_provider/boot_dubbo_user_service_provider.iml" filepath="$PROJECT_DIR$/boot_dubbo_user_service_provider/boot_dubbo_user_service_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_order_service_consumer/dubbo_order_service_consumer.iml" filepath="$PROJECT_DIR$/dubbo_order_service_consumer/dubbo_order_service_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_user_service_provider/dubbo_user_service_provider.iml" filepath="$PROJECT_DIR$/dubbo_user_service_provider/dubbo_user_service_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall_interface/gmall_interface.iml" filepath="$PROJECT_DIR$/gmall_interface/gmall_interface.iml" />
+    </modules>
+  </component>
+</project>

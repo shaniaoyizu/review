@@ -1,0 +1,17 @@
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://dubbo.apache.org/schema/dubbo"
+       xmlns="http://www.springframework.org/schema/beans" xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://dubbo.apache.org/schema/dubbo http://dubbo.apache.org/schema/dubbo/dubbo.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <dubbo:application name="dubbo_order_service_consumer"/>
+
+    <dubbo:registry protocol="zookeeper" address="192.168.2.14:2181"/>
+
+    <dubbo:reference id="userService" interface="com.sunbc.service.UserService"
+                     version="*" stub="com.sunbc.service.stub.UserServiceStub"/>
+
+    <context:component-scan base-package="com.sunbc.service"/>
+
+    <dubbo:monitor protocol="registry"/>
+</beans>    

@@ -1,0 +1,14 @@
+dubbo:
+  registry:
+    address: zookeeper://192.168.2.14:2181
+  application:
+    name: boot_dubbo_order_service_consumer
+  monitor:
+    protocol: registry
+  consumer:
+    loadbalance: roundrobin
+    cluster: failover
+#    check: false
+#    retries: 3
+server:
+  port: 8888

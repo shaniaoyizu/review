@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="00-api" />
+        <module name="01-consumer" />
+        <module name="01-provider" />
+        <module name="01-provider2" />
+        <module name="02-consumer-zk" />
+        <module name="02-provider-zk" />
+        <module name="02-provider-zk01" />
+        <module name="02-provider-zk02" />
+        <module name="02-provider-zk03" />
+        <module name="03-consumer-web" />
+        <module name="03-provider-web" />
+        <module name="04-commons" />
+        <module name="04-consumer-version" />
+        <module name="04-provider-version" />
+        <module name="05-consumer-group" />
+        <module name="05-jdkspi" />
+        <module name="05-provider-group" />
+        <module name="06-consumer-mockclass" />
+        <module name="06-consumer-mocknull" />
+        <module name="06-consumer-timeout" />
+        <module name="06-provider-timeout" />
+        <module name="07-consumer-cache" />
+        <module name="08-consumer-registers" />
+        <module name="08-provider-registers" />
+        <module name="09-provider-oneway" />
+        <module name="10-consumer-async" />
+        <module name="10-consumer-async2" />
+        <module name="10-provider-async" />
+        <module name="10-provider-async2" />
+        <module name="10-provider-async3" />
+        <module name="11-consumer-springboot" />
+        <module name="11-dubboCommons" />
+        <module name="11-provider-springboot" />
+        <module name="12-jdkspi" />
+        <module name="13-dubbospi" />
+        <module name="14-adaptiveclass" />
+        <module name="14-adaptivemethod" />
+        <module name="15-wrapper" />
+        <module name="16-activate" />
+        <module name="17-javassist" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="00-api" target="1.8" />
+      <module name="01-consumer" target="1.8" />
+      <module name="01-provider" target="1.8" />
+      <module name="01-provider2" target="1.8" />
+      <module name="02-consumer-zk" target="1.8" />
+      <module name="02-provider-zk" target="1.8" />
+      <module name="02-provider-zk01" target="1.8" />
+      <module name="02-provider-zk02" target="1.8" />
+      <module name="02-provider-zk03" target="1.8" />
+      <module name="03-consumer-web" target="1.8" />
+      <module name="03-provider-web" target="1.8" />
+      <module name="04-commons" target="1.8" />
+      <module name="04-consumer-downgrade" target="1.8" />
+      <module name="04-consumer-version" target="1.8" />
+      <module name="04-provider-version" target="1.8" />
+      <module name="05-consumer-group" target="1.8" />
+      <module name="05-jdkspi" target="6" />
+      <module name="05-provider-group" target="1.8" />
+      <module name="06-consumer-downgrade" target="1.8" />
+      <module name="06-consumer-downgrade2" target="1.8" />
+      <module name="06-consumer-downgrade3" target="1.8" />
+      <module name="06-consumer-mockclass" target="1.8" />
+      <module name="06-consumer-mocknull" target="1.8" />
+      <module name="06-consumer-returnnull" target="1.8" />
+      <module name="06-consumer-timeout" target="1.8" />
+      <module name="06-provider-timeout" target="1.8" />
+      <module name="07-consumer-cache" target="1.8" />
+      <module name="08-consumer-registers" target="1.8" />
+      <module name="08-provider-registers" target="1.8" />
+      <module name="09-provider-oneway" target="1.8" />
+      <module name="10-consumer-async" target="1.8" />
+      <module name="10-consumer-async2" target="1.8" />
+      <module name="10-provider-async" target="1.8" />
+      <module name="10-provider-async2" target="1.8" />
+      <module name="10-provider-async3" target="1.8" />
+      <module name="11-consumer-springboot" target="1.8" />
+      <module name="11-dubboCommons" target="1.8" />
+      <module name="11-provider-springboot" target="1.8" />
+      <module name="12-jdkspi" target="1.8" />
+      <module name="13-dubbospi" target="1.8" />
+      <module name="14-adaptiveclass" target="1.8" />
+      <module name="14-adaptivemethod" target="1.8" />
+      <module name="15-wrapper" target="1.8" />
+      <module name="16-activate" target="1.8" />
+      <module name="17-javassist" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

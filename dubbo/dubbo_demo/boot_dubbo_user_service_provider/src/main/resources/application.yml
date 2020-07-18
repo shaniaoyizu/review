@@ -1,0 +1,10 @@
+#dubbo:
+#  registry:
+#    address: zookeeper://192.168.2.14:2181
+#  application:
+#    name: boot_dubbo_user_service_provider
+#  protocol:
+#    name: dubbo
+#    port: 20880
+#  monitor:
+#    protocol: registry

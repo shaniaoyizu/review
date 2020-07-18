@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/00-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-provider2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-consumer-zk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-provider-zk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-provider-zk01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-provider-zk02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-provider-zk03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-consumer-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-provider-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-consumer-version" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-provider-version" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-consumer-group" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-provider-group" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-consumer-mockclass" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-consumer-mocknull" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-consumer-timeout" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-provider-timeout" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-consumer-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-consumer-registers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-provider-registers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-provider-oneway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-consumer-async" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-consumer-async2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-provider-async" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-provider-async2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-provider-async3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-consumer-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-dubboCommons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-provider-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-jdkspi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13-dubbospi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14-adaptiveclass" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14-adaptivemethod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15-wrapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/16-activate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/17-javassist" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

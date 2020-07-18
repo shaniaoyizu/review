@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/03-consumer-web" />
+    <file type="web" url="file://$PROJECT_DIR$/03-provider-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/00-api/pom.xml" />
+        <option value="$PROJECT_DIR$/01-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/01-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/01-provider2/pom.xml" />
+        <option value="$PROJECT_DIR$/02-consumer-zk/pom.xml" />
+        <option value="$PROJECT_DIR$/02-provider-zk/pom.xml" />
+        <option value="$PROJECT_DIR$/02-provider-zk01/pom.xml" />
+        <option value="$PROJECT_DIR$/02-provider-zk02/pom.xml" />
+        <option value="$PROJECT_DIR$/02-provider-zk03/pom.xml" />
+        <option value="$PROJECT_DIR$/03-consumer-web/pom.xml" />
+        <option value="$PROJECT_DIR$/03-provider-web/pom.xml" />
+        <option value="$PROJECT_DIR$/04-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/04-consumer-version/pom.xml" />
+        <option value="$PROJECT_DIR$/04-provider-version/pom.xml" />
+        <option value="$PROJECT_DIR$/05-consumer-group/pom.xml" />
+        <option value="$PROJECT_DIR$/05-provider-group/pom.xml" />
+        <option value="$PROJECT_DIR$/07-consumer-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/08-consumer-registers/pom.xml" />
+        <option value="$PROJECT_DIR$/08-provider-registers/pom.xml" />
+        <option value="$PROJECT_DIR$/09-provider-oneway/pom.xml" />
+        <option value="$PROJECT_DIR$/10-consumer-async/pom.xml" />
+        <option value="$PROJECT_DIR$/10-consumer-async2/pom.xml" />
+        <option value="$PROJECT_DIR$/10-provider-async/pom.xml" />
+        <option value="$PROJECT_DIR$/10-provider-async2/pom.xml" />
+        <option value="$PROJECT_DIR$/10-provider-async3/pom.xml" />
+        <option value="$PROJECT_DIR$/11-consumer-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/11-dubboCommons/pom.xml" />
+        <option value="$PROJECT_DIR$/11-provider-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/12-jdkspi/pom.xml" />
+        <option value="$PROJECT_DIR$/06-provider-timeout/pom.xml" />
+        <option value="$PROJECT_DIR$/06-consumer-timeout/pom.xml" />
+        <option value="$PROJECT_DIR$/06-consumer-mockclass/pom.xml" />
+        <option value="$PROJECT_DIR$/06-consumer-mocknull/pom.xml" />
+        <option value="$PROJECT_DIR$/13-dubbospi/pom.xml" />
+        <option value="$PROJECT_DIR$/14-adaptiveclass/pom.xml" />
+        <option value="$PROJECT_DIR$/14-adaptivemethod/pom.xml" />
+        <option value="$PROJECT_DIR$/15-wrapper/pom.xml" />
+        <option value="$PROJECT_DIR$/16-activate/pom.xml" />
+        <option value="$PROJECT_DIR$/17-javassist/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
