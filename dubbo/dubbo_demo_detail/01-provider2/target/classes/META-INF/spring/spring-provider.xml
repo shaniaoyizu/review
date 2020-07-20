@@ -8,7 +8,7 @@
        http://dubbo.apache.org/schema/dubbo/dubbo.xsd">
 
     <!--指定当前工程在Monitor中显示的名称，一般与工程名相同-->
-    <dubbo:application name="01-provider2"/>
+    <dubbo:application name="01-provider2" />
 
     <!--指定服务注册中心：不指定注册中心-->
     <dubbo:registry address="N/A"/>
@@ -19,6 +19,18 @@
     <!--服务暴露-->
     <dubbo:service interface="com.abc.service.SomeService"
                    ref="someService"/>
+
+    <!--<dubbo:service interface="com.abc.service.SomeService" provider="two"-->
+                   <!--ref="someService"   protocol="dubbo,rmi">-->
+        <!--<dubbo:method name="hello"/>-->
+    <!--</dubbo:service>-->
+
+
+    <!--<dubbo:provider id="two" timeout="2000" protocol="dubbo" default="true"/>-->
+    <!--<dubbo:provider id="three" timeout="3000" default="false" export=""/>-->
+
+    <!--<bean id="gzzk" />-->
+    <!--<bean id="szzk" />-->
 
 
 </beans>

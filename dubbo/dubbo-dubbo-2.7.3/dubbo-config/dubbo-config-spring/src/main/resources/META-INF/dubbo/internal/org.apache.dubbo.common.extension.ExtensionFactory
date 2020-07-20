@@ -1,0 +1,2 @@
+spring=org.apache.dubbo.config.spring.extension.SpringExtensionFactory
+
