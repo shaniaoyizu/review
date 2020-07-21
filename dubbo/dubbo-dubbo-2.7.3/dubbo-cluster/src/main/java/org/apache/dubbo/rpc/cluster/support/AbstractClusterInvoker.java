@@ -226,7 +226,7 @@ public abstract class AbstractClusterInvoker<T> implements Invoker<T> {
         }
 
         // 代码能够走到这里，说明reselectInvokers集合为空，
-        // 即所有提供者有状态是，要么不可用，要么是曾被用过的
+        // 即所有提供者的状态是：要么不可用，要么是曾被用过的
         // Just pick an available invoker using loadbalance policy
         // 这里做的工作是“求其次”
         // 从已经被用过的集合中再选出可用的进行负载均衡
