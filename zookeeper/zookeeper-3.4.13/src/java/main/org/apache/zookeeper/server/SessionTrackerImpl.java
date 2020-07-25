@@ -57,7 +57,7 @@ public class SessionTrackerImpl extends ZooKeeperCriticalThread implements Sessi
         SessionImpl(long sessionId, int timeout, long expireTime) {
             this.sessionId = sessionId;
             this.timeout = timeout;
-            // 用户记录当前Session所在的桶
+            // 用于记录当前Session所在的桶
             this.tickTime = expireTime;
             isClosing = false;
         }
