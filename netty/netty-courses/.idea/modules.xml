@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_primary/01_primary.iml" filepath="$PROJECT_DIR$/01_primary/01_primary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_primary2/01_primary2.iml" filepath="$PROJECT_DIR$/01_primary2/01_primary2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_socket/02_socket.iml" filepath="$PROJECT_DIR$/02_socket/02_socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_stickybag/03_stickybag.iml" filepath="$PROJECT_DIR$/03_stickybag/03_stickybag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_unpacking/03_unpacking.iml" filepath="$PROJECT_DIR$/03_unpacking/03_unpacking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_delimiterBasedFrameDecoder/04_delimiterBasedFrameDecoder.iml" filepath="$PROJECT_DIR$/04_delimiterBasedFrameDecoder/04_delimiterBasedFrameDecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_fixedLengthFrameDecoder/04_fixedLengthFrameDecoder.iml" filepath="$PROJECT_DIR$/04_fixedLengthFrameDecoder/04_fixedLengthFrameDecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_lengthFieldBasedFrameDecoder/04_lengthFieldBasedFrameDecoder.iml" filepath="$PROJECT_DIR$/04_lengthFieldBasedFrameDecoder/04_lengthFieldBasedFrameDecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_lineBasedFrameDecoder/04_lineBasedFrameDecoder.iml" filepath="$PROJECT_DIR$/04_lineBasedFrameDecoder/04_lineBasedFrameDecoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_websocket/05_websocket.iml" filepath="$PROJECT_DIR$/05_websocket/05_websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_webchat/06_webchat.iml" filepath="$PROJECT_DIR$/06_webchat/06_webchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_idle/07_idle.iml" filepath="$PROJECT_DIR$/07_idle/07_idle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_tomcat/08_tomcat.iml" filepath="$PROJECT_DIR$/08_tomcat/08_tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_heartBeat/09_heartBeat.iml" filepath="$PROJECT_DIR$/09_heartBeat/09_heartBeat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_rpc_api/10_rpc_api.iml" filepath="$PROJECT_DIR$/10_rpc_api/10_rpc_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_rpc_client/10_rpc_client.iml" filepath="$PROJECT_DIR$/10_rpc_client/10_rpc_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_rpc_server/10_rpc_server.iml" filepath="$PROJECT_DIR$/10_rpc_server/10_rpc_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_dubbo_api/11_dubbo_api.iml" filepath="$PROJECT_DIR$/11_dubbo_api/11_dubbo_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_dubbo_client/11_dubbo_client.iml" filepath="$PROJECT_DIR$/11_dubbo_client/11_dubbo_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_dubbo_server/11_dubbo_server.iml" filepath="$PROJECT_DIR$/11_dubbo_server/11_dubbo_server.iml" />
+    </modules>
+  </component>
+</project>

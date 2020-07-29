@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01_primary/pom.xml" />
+        <option value="$PROJECT_DIR$/01_primary2/pom.xml" />
+        <option value="$PROJECT_DIR$/02_socket/pom.xml" />
+        <option value="$PROJECT_DIR$/03_unpacking/pom.xml" />
+        <option value="$PROJECT_DIR$/03_stickybag/pom.xml" />
+        <option value="$PROJECT_DIR$/04_lineBasedFrameDecoder/pom.xml" />
+        <option value="$PROJECT_DIR$/04_delimiterBasedFrameDecoder/pom.xml" />
+        <option value="$PROJECT_DIR$/04_fixedLengthFrameDecoder/pom.xml" />
+        <option value="$PROJECT_DIR$/04_lengthFieldBasedFrameDecoder/pom.xml" />
+        <option value="$PROJECT_DIR$/05_websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/06_webchat/pom.xml" />
+        <option value="$PROJECT_DIR$/07_idle/pom.xml" />
+        <option value="$PROJECT_DIR$/10_rpc_server/pom.xml" />
+        <option value="$PROJECT_DIR$/10_rpc_client/pom.xml" />
+        <option value="$PROJECT_DIR$/10_rpc_api/pom.xml" />
+        <option value="$PROJECT_DIR$/11_dubbo_api/pom.xml" />
+        <option value="$PROJECT_DIR$/11_dubbo_server/pom.xml" />
+        <option value="$PROJECT_DIR$/11_dubbo_client/pom.xml" />
+        <option value="$PROJECT_DIR$/08_tomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/09_heartBeat/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/08_tomcat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09_heartBeat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10_rpc_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10_rpc_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10_rpc_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11_dubbo_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11_dubbo_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11_dubbo_server" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

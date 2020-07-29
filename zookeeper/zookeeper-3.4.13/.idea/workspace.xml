@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d175723-2968-46f6-9d7f-18fc5dcdcadc" name="Default Changelist" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/SessionTrackerImpl.java" afterPath="$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/SessionTrackerImpl.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.eclipse/classes-main/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,13 +53,9 @@
       <file leaf-file-name="FastLeaderElection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/quorum/FastLeaderElection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="23472">
               <caret line="1018" column="45" lean-forward="false" selection-start-line="1018" selection-start-column="45" selection-end-line="1018" selection-end-column="45" />
-              <folding>
-                <element signature="e#24525#24531#0" expanded="true" />
-                <element signature="e#30677#30689#0" expanded="true" />
-                <element signature="e#30848#30860#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,8 +63,8 @@
       <file leaf-file-name="ZooKeeperServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/ZooKeeperServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="446" column="21" lean-forward="true" selection-start-line="446" selection-start-column="21" selection-end-line="446" selection-end-column="21" />
+            <state relative-caret-position="8616">
+              <caret line="446" column="21" lean-forward="false" selection-start-line="446" selection-start-column="21" selection-end-line="446" selection-end-column="21" />
               <folding>
                 <element signature="e#15700#15701#0" expanded="true" />
                 <element signature="e#15760#15761#0" expanded="true" />
@@ -82,10 +76,13 @@
       <file leaf-file-name="SessionTrackerImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/SessionTrackerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="196" column="39" lean-forward="true" selection-start-line="196" selection-start-column="39" selection-end-line="196" selection-end-column="39" />
+            <state relative-caret-position="288">
+              <caret line="207" column="7" lean-forward="false" selection-start-line="207" selection-start-column="7" selection-end-line="207" selection-end-column="7" />
               <folding>
+                <element signature="e#1834#1853#0" expanded="true" />
                 <element signature="e#1913#1931#0" expanded="true" />
+                <element signature="e#2994#3007#0" expanded="true" />
+                <element signature="e#4280#4286#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,7 +91,7 @@
       <file leaf-file-name="LENonTerminateTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
+            <state relative-caret-position="24">
               <caret line="267" column="42" lean-forward="false" selection-start-line="267" selection-start-column="42" selection-end-line="267" selection-end-column="42" />
               <folding />
             </state>
@@ -104,7 +101,7 @@
       <file leaf-file-name="LinkedBlockingQueue.java" pinned="false" current-in-tab="false">
         <entry file="jar://D:/JavaEnvironment/jdk1.8.0_172/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
+            <state relative-caret-position="9768">
               <caret line="455" column="13" lean-forward="false" selection-start-line="455" selection-start-column="13" selection-end-line="455" selection-end-column="13" />
               <folding />
             </state>
@@ -124,7 +121,7 @@
       <file leaf-file-name="QuorumPeer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/quorum/QuorumPeer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="11544">
               <caret line="555" column="29" lean-forward="false" selection-start-line="555" selection-start-column="29" selection-end-line="555" selection-end-column="29" />
               <folding>
                 <element signature="e#19717#19718#0" expanded="true" />
@@ -197,9 +194,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,6 +273,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,11 +412,12 @@
       <workItem from="1595515482066" duration="326000" />
       <workItem from="1595515924398" duration="6132000" />
       <workItem from="1595548230482" duration="9107000" />
+      <workItem from="1595653935763" duration="4264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53706000" />
+    <option name="totallyTimeSpent" value="57970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -468,13 +466,76 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/quorum/FastLeaderElection.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23472">
+          <caret line="1018" column="45" lean-forward="false" selection-start-line="1018" selection-start-column="45" selection-end-line="1018" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/ZooKeeperServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10704">
+          <caret line="446" column="21" lean-forward="true" selection-start-line="446" selection-start-column="21" selection-end-line="446" selection-end-column="21" />
+          <folding>
+            <element signature="e#15700#15701#0" expanded="true" />
+            <element signature="e#15760#15761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6408">
+          <caret line="267" column="42" lean-forward="false" selection-start-line="267" selection-start-column="42" selection-end-line="267" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JavaEnvironment/jdk1.8.0_172/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10920">
+          <caret line="455" column="13" lean-forward="false" selection-start-line="455" selection-start-column="13" selection-end-line="455" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/quorum/QuorumCnxManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2064">
+          <caret line="86" column="13" lean-forward="false" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/quorum/QuorumPeer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13320">
+          <caret line="555" column="29" lean-forward="false" selection-start-line="555" selection-start-column="29" selection-end-line="555" selection-end-column="29" />
+          <folding>
+            <element signature="e#19717#19718#0" expanded="true" />
+            <element signature="e#19747#19748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/SessionTrackerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4704">
+          <caret line="196" column="39" lean-forward="true" selection-start-line="196" selection-start-column="39" selection-end-line="196" selection-end-column="39" />
+          <folding>
+            <element signature="e#1834#1853#0" expanded="true" />
+            <element signature="e#1913#1931#0" expanded="true" />
+            <element signature="e#2994#3007#0" expanded="true" />
+            <element signature="e#4280#4286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/quorum/FastLeaderElection.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#24525#24531#0" expanded="true" />
-            <element signature="e#30677#30689#0" expanded="true" />
-            <element signature="e#30848#30860#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -482,10 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4752">
           <caret line="198" column="22" lean-forward="false" selection-start-line="198" selection-start-column="22" selection-end-line="198" selection-end-column="22" />
-          <folding>
-            <element signature="e#5288#5289#0" expanded="false" />
-            <element signature="e#5359#5360#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,7 +581,10 @@
         <state relative-caret-position="3576">
           <caret line="179" column="38" lean-forward="false" selection-start-line="179" selection-start-column="38" selection-end-line="179" selection-end-column="38" />
           <folding>
+            <element signature="e#1834#1853#0" expanded="true" />
             <element signature="e#1913#1931#0" expanded="true" />
+            <element signature="e#2994#3007#0" expanded="true" />
+            <element signature="e#4280#4286#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -553,7 +613,10 @@
         <state relative-caret-position="3576">
           <caret line="179" column="38" lean-forward="false" selection-start-line="179" selection-start-column="38" selection-end-line="179" selection-end-column="38" />
           <folding>
+            <element signature="e#1834#1853#0" expanded="true" />
             <element signature="e#1913#1931#0" expanded="true" />
+            <element signature="e#2994#3007#0" expanded="true" />
+            <element signature="e#4280#4286#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -582,7 +645,10 @@
         <state relative-caret-position="4296">
           <caret line="179" column="38" lean-forward="false" selection-start-line="179" selection-start-column="38" selection-end-line="179" selection-end-column="38" />
           <folding>
+            <element signature="e#1834#1853#0" expanded="true" />
             <element signature="e#1913#1931#0" expanded="true" />
+            <element signature="e#2994#3007#0" expanded="true" />
+            <element signature="e#4280#4286#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -611,7 +677,10 @@
         <state relative-caret-position="3576">
           <caret line="179" column="38" lean-forward="false" selection-start-line="179" selection-start-column="38" selection-end-line="179" selection-end-column="38" />
           <folding>
+            <element signature="e#1834#1853#0" expanded="true" />
             <element signature="e#1913#1931#0" expanded="true" />
+            <element signature="e#2994#3007#0" expanded="true" />
+            <element signature="e#4280#4286#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -640,7 +709,10 @@
         <state relative-caret-position="4296">
           <caret line="179" column="38" lean-forward="false" selection-start-line="179" selection-start-column="38" selection-end-line="179" selection-end-column="38" />
           <folding>
+            <element signature="e#1834#1853#0" expanded="true" />
             <element signature="e#1913#1931#0" expanded="true" />
+            <element signature="e#2994#3007#0" expanded="true" />
+            <element signature="e#4280#4286#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -669,7 +741,10 @@
         <state relative-caret-position="3528">
           <caret line="147" column="29" lean-forward="true" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
           <folding>
+            <element signature="e#1834#1853#0" expanded="true" />
             <element signature="e#1913#1931#0" expanded="true" />
+            <element signature="e#2994#3007#0" expanded="true" />
+            <element signature="e#4280#4286#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -732,16 +807,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3528">
           <caret line="198" column="22" lean-forward="false" selection-start-line="198" selection-start-column="22" selection-end-line="198" selection-end-column="22" />
-          <folding>
-            <element signature="e#5288#5289#0" expanded="false" />
-            <element signature="e#5359#5360#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/JavaEnvironment/jdk1.8.0_172/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
+        <state relative-caret-position="9768">
           <caret line="455" column="13" lean-forward="false" selection-start-line="455" selection-start-column="13" selection-end-line="455" selection-end-column="13" />
           <folding />
         </state>
@@ -751,10 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="134" column="16" lean-forward="false" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="16" />
-          <folding>
-            <element signature="e#4288#4289#0" expanded="true" />
-            <element signature="e#4331#4332#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -762,7 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -784,7 +849,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/quorum/QuorumPeer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="11544">
           <caret line="555" column="29" lean-forward="false" selection-start-line="555" selection-start-column="29" selection-end-line="555" selection-end-column="29" />
           <folding>
             <element signature="e#19717#19718#0" expanded="true" />
@@ -793,23 +858,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="267" column="42" lean-forward="false" selection-start-line="267" selection-start-column="42" selection-end-line="267" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/quorum/FastLeaderElection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="23472">
           <caret line="1018" column="45" lean-forward="false" selection-start-line="1018" selection-start-column="45" selection-end-line="1018" selection-end-column="45" />
-          <folding>
-            <element signature="e#24525#24531#0" expanded="true" />
-            <element signature="e#30677#30689#0" expanded="true" />
-            <element signature="e#30848#30860#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -817,14 +870,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-463">
           <caret line="698" column="29" lean-forward="false" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/ZooKeeperServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="446" column="21" lean-forward="true" selection-start-line="446" selection-start-column="21" selection-end-line="446" selection-end-column="21" />
+        <state relative-caret-position="8616">
+          <caret line="446" column="21" lean-forward="false" selection-start-line="446" selection-start-column="21" selection-end-line="446" selection-end-column="21" />
           <folding>
             <element signature="e#15700#15701#0" expanded="true" />
             <element signature="e#15760#15761#0" expanded="true" />
@@ -832,12 +884,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/test/org/apache/zookeeper/test/LENonTerminateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="267" column="42" lean-forward="false" selection-start-line="267" selection-start-column="42" selection-end-line="267" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/main/org/apache/zookeeper/server/SessionTrackerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="196" column="39" lean-forward="true" selection-start-line="196" selection-start-column="39" selection-end-line="196" selection-end-column="39" />
+        <state relative-caret-position="288">
+          <caret line="207" column="7" lean-forward="false" selection-start-line="207" selection-start-column="7" selection-end-line="207" selection-end-column="7" />
           <folding>
+            <element signature="e#1834#1853#0" expanded="true" />
             <element signature="e#1913#1931#0" expanded="true" />
+            <element signature="e#2994#3007#0" expanded="true" />
+            <element signature="e#4280#4286#0" expanded="true" />
           </folding>
         </state>
       </provider>

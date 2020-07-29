@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01-primary" />
+        <module name="01-primary2" />
+        <module name="01_primary" />
+        <module name="01_primary2" />
+        <module name="02-socket" />
+        <module name="02_socket" />
+        <module name="03-stickybag" />
+        <module name="03-unpacking" />
+        <module name="03_stickybag" />
+        <module name="03_unpacking" />
+        <module name="04_delimiterBasedFrameDecoder" />
+        <module name="04_fixedLengthFrameDecoder" />
+        <module name="04_lengthFieldBasedFrameDecoder" />
+        <module name="04_lineBasedFrameDecoder" />
+        <module name="05_websocket" />
+        <module name="06-webchat" />
+        <module name="06_webchat" />
+        <module name="07_idle" />
+        <module name="08_tomcat" />
+        <module name="09_heartBeat" />
+        <module name="10-rpc-api" />
+        <module name="10-rpc-client" />
+        <module name="10-rpc-server" />
+        <module name="10_rpc_api" />
+        <module name="10_rpc_client" />
+        <module name="10_rpc_server" />
+        <module name="11_dubbo_api" />
+        <module name="11_dubbo_client" />
+        <module name="11_dubbo_server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="01-primary" target="1.8" />
+      <module name="01-primary2" target="1.8" />
+      <module name="01_primary" target="1.8" />
+      <module name="01_primary2" target="1.8" />
+      <module name="02-socket" target="1.8" />
+      <module name="02_socket" target="1.8" />
+      <module name="03-stickybag" target="1.8" />
+      <module name="03-unpacking" target="1.8" />
+      <module name="03_stickybag" target="1.8" />
+      <module name="03_unpacking" target="1.8" />
+      <module name="04_delimiterBasedFrameDecoder" target="1.8" />
+      <module name="04_fixedLengthFrameDecoder" target="1.8" />
+      <module name="04_lengthFieldBasedFrameDecoder" target="1.8" />
+      <module name="04_lineBasedFrameDecoder" target="1.8" />
+      <module name="05_websocket" target="1.8" />
+      <module name="06-webchat" target="1.8" />
+      <module name="06_webchat" target="1.8" />
+      <module name="07_idle" target="1.8" />
+      <module name="08_tomcat" target="1.8" />
+      <module name="09_heartBeat" target="1.8" />
+      <module name="10-rpc-api" target="1.8" />
+      <module name="10-rpc-client" target="1.8" />
+      <module name="10-rpc-server" target="1.8" />
+      <module name="10_rpc_api" target="1.8" />
+      <module name="10_rpc_client" target="1.8" />
+      <module name="10_rpc_server" target="1.8" />
+      <module name="11_dubbo_api" target="1.8" />
+      <module name="11_dubbo_client" target="1.8" />
+      <module name="11_dubbo_server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
