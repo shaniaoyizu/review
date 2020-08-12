@@ -1,0 +1,18 @@
+#自定义属性
+kafka:
+  topic: cities
+
+#配置Kafka
+spring:
+  kafka:
+    bootstrap-servers: kafkaOS1:9092,kafkaOS2:9092,kafkaOS3:9092
+    # 配置生产者
+#    producer:
+#      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+#      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+
+    # 配置消费者
+    consumer:
+      group-id: cityGroup
+#      key-serializer: org.apache.kafka.common.serialization.StringDeserializer
+#      value-serializer: org.apache.kafka.common.serialization.StringDeserializer
