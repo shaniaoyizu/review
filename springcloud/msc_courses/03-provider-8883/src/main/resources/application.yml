@@ -1,0 +1,38 @@
+server:
+  port: 8883
+
+spring:
+  jpa:
+    generate-ddl: true
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///test?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC&useSSL=false
+    username: root
+    password: xiaoBAO22
+
+  application:
+    name: msc-provider-depart
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+#      defaultZone: http://eureka8100.com:8100/eureka,http://eureka8200.com:8200/eureka,http://eureka8300.com:8300/eureka
+#  instance:
+#    instance-id: msc-provider-8881
+#    lease-renewal-interval-in-seconds: 1
+#    lease-expiration-duration-in-seconds: 3
+
+
+info:
+  auth: Sunbc
+  app.name: sunbc
+  company.name: www.sunbc.com
+
+
+

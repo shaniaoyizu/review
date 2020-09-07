@@ -1,0 +1,12 @@
+server:
+  port: 8880
+
+spring:
+  application:
+    name: msc-consumer-depart-8880
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+

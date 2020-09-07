@@ -1,0 +1,29 @@
+server:
+  port: 8880
+
+spring:
+  application:
+    name: msc-consumer-depart
+  cloud:
+    stream:
+      kafka:
+        binder:
+          # 指定要连接的kafka集群
+          brokers: 120.24.170.213:9092
+          # 指定是否自动创建主题
+          auto-create-topics: true
+      bindings:
+        output:
+          destination: names
+          content-type: text/plain
+        xxx:
+          destination: cities
+          content-type: text/plain
+        # 指定要绑定的输入管道，及要消费的管道中的消息主题
+        input:
+          destination: names
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+

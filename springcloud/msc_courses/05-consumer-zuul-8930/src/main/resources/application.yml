@@ -1,0 +1,14 @@
+server:
+  port: 8930
+
+spring:
+  application:
+    name: msc-consumer-depart
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+  instance:
+    metadata-map:
+      host-mark: gray-host

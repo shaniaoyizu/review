@@ -1,0 +1,16 @@
+server:
+  port: 9000
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+
+spring:
+  application:
+    name: msc-zuul-depart
+
+zuul:
+  routes:
+    msc-consumer-depart-8880: /abc8880/**
+    msc-consumer-depart-8890: /abc8890/**

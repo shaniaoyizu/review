@@ -1,0 +1,35 @@
+server:
+  port: 8881
+
+spring:
+  jpa:
+    generate-ddl: true
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///test?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC&useSSL=false
+    username: root
+    password: xiaoBAO22
+
+  application:
+    name: msc-provider-depart
+  # 指定当前Sleuth要连接的kafka集群
+  kafka:
+    bootstrap-servers: 120.24.170.213:9092
+  # 指定zipkin服务器的消息发送者是kafka
+  zipkin:
+    sender:
+      type: kafka
+  # 设置采样比例为1.0，即全部都需要，默认0.1
+  sleuth:
+    sampler:
+      probability: 1.0
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka

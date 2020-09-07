@@ -1,0 +1,16 @@
+server:
+  port: 8880
+
+spring:
+  application:
+    name: msc-consumer-depart
+  redis:
+    host: 120.24.170.213
+    port: 6381
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+
+
