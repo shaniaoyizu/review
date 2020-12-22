@@ -42,11 +42,12 @@ public class JedisUtils {
      *
      * @param lockKey    锁key
      * @param requestId  请求ID,保证统一性 threadId 可以多次进入
-     * @param expireTime
+     * @param expireTime 过期时间 单位毫秒
      * @return
      */
     public static Long getLock(Jedis jedis, String lockKey, String requestId, int expireTime) {
-        String result = jedis.set(lockKey, requestId, SetParams.setParams().px(expireTime).nx());
+//        String result = jedis.set(lockKey, requestId, "nx","px",expireTime);
+        String result = jedis.set(lockKey, requestId, new SetParams().nx().px(expireTime));
         if ("OK".equals(result)) {
             return 0l;
         }
